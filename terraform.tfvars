@@ -1,0 +1,1 @@
+heroes_content = "Batman; SuperMan; Flash; IronMan; SpiderMan"
