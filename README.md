@@ -26,3 +26,4 @@ terraform apply
 - [Create Local File](./docs/CREATE-LOCAL-FILE.md)
 - [Variables](./docs/CREATE-VARIABLES.md)
 - [Outputs](./docs/OUTPUTS.md)
+- [Data Source](./docs/DATASOURCE.md)
