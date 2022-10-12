@@ -8,3 +8,11 @@ variable "heroes_content" {
   default = "Heros content"
   description = "The heroes content"
 }
+
+output "heroes_filename_id" {
+  value = local_file.heroes.id
+}
+
+output "heroes_filename_content" {
+  value = local_file.heroes.content
+}

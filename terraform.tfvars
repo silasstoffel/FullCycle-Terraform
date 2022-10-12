@@ -1,1 +1,1 @@
-heroes_content = "Batman; SuperMan; Flash; IronMan; SpiderMan"
+heroes_content = "Batman; SuperMan; Flash; IronMan; SpiderMan; AquaMan"
